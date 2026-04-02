@@ -1,4 +1,5 @@
 # Bingo Scanner
+Live demo: https://bingo-scanner.pages.dev/
 
 A mobile-first Progressive Web App for tracking physical bingo cards digitally. Photograph a card with your phone, let OCR read the numbers, then call numbers and watch wins highlight across all cards in real time.
 
